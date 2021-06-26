@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<<<<<<< HEAD
 ## Anggota Kelompok (Username / Nama / NIM )
 
 - Rizalaji1st / Rizal Aji Purbadinata / M0519073
@@ -14,6 +15,8 @@
 - vigosss12/ Vigo Agmel Sadewa / M0519081
 
 
+=======
+>>>>>>> ba59a4d428a08bea25fd1a2bb420376b9b52ad53
 
 ## Cara Clone Project
 
@@ -36,4 +39,3 @@
 - Buat nama database sesuai pada .env
 - Masukkan perintah php artisan db:seed pada cmd
 - Jika ingin melakukan seeding per tabel, gunakan perintah php artisan db:seed --class=namaSeederTabel
-
