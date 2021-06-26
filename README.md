@@ -10,11 +10,9 @@
 ## Anggota Kelompok (Username / Nama / NIM )
 
 - Rizalaji1st / Rizal Aji Purbadinata / M0519073
-- barisanjancuker76 /wahyu Misbah Assudur/ M0519082
-- riojohanes / Rio Johanes Sumolang / M0519072
+- sir-shalahuddin / Siraj Shalahuddin / M0519078
 - vigosss12/ Vigo Agmel Sadewa / M0519081
-- silvyaamalia / Silvya Amalia Santy Yohara / M0518058
-- temamumtaza/ Muhammad Tema Rizan Mumtaza/ M0518039
+
 
 
 ## Cara Clone Project
@@ -39,6 +37,3 @@
 - Masukkan perintah php artisan db:seed pada cmd
 - Jika ingin melakukan seeding per tabel, gunakan perintah php artisan db:seed --class=namaSeederTabel
 
-## Link Spreadsheet
-
-- https://docs.google.com/spreadsheets/d/18HU588JxRaIEx4PoudgM8aHxUY_6um5fDV8a3R5QYpo/edit#gid=1788905879 
